@@ -999,3 +999,19 @@ Recommended: 516.25
 [2022.09.07-14.01.02:694][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2022.09.07-14.01.02:747][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.09.07-14.02.44:918][307]LogDerivedDataCache: C:/Users/ideto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.008 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.07-14.30.00:139][476]LogViewport: Scene viewport resized to 879x728, mode Windowed.
+[2022.09.07-14.30.00:250][476]LogViewport: Scene viewport resized to 703x582, mode Windowed.
+[2022.09.07-14.30.00:861][476]LogViewport: Scene viewport resized to 879x728, mode Windowed.
+[2022.09.07-14.30.02:402][532]LogViewport: Scene viewport resized to 1057x858, mode Windowed.
+[2022.09.07-14.30.32:081][304]LogViewport: Scene viewport resized to 879x728, mode Windowed.
+[2022.09.07-14.30.32:200][304]LogViewport: Scene viewport resized to 703x582, mode Windowed.
+[2022.09.07-14.30.41:915][624]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.09.07-14.32.47:134][442]LogSlate: Window 'Bridge' being destroyed
+[2022.09.07-14.32.47:139][442]LogSlate: Window 'Bridge' being destroyed
+[2022.09.07-14.40.33:457][824]LogViewport: Scene viewport resized to 673x582, mode Windowed.
+[2022.09.07-14.40.33:489][825]LogViewport: Scene viewport resized to 619x582, mode Windowed.
+[2022.09.07-14.40.33:557][827]LogViewport: Scene viewport resized to 526x582, mode Windowed.
+[2022.09.07-14.40.33:795][840]LogViewport: Scene viewport resized to 503x582, mode Windowed.
+[2022.09.07-14.40.33:837][842]LogViewport: Scene viewport resized to 482x582, mode Windowed.
+[2022.09.07-14.40.33:898][844]LogViewport: Scene viewport resized to 466x582, mode Windowed.
+[2022.09.07-14.40.33:945][846]LogViewport: Scene viewport resized to 434x582, mode Windowed.
